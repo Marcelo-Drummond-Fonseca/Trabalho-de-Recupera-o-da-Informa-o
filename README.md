@@ -10,6 +10,6 @@ main.py realiza a busca, passo a passo, no final devolvendo a lista de documento
 
 Cosine_only realiza somente a similaridade de cossenos, sem o pagerank, e foi utilizado para a validação.
 
-O dataset em si era grande demais para o github. Está disponível em https://www.dropbox.com/scl/fo/p49ffqwdo38a7q1derstj/h?rlkey=bghi46uh19713cy5331hw9ny0&dl=0
+O dataset em si era grande demais para o github. Foi enviado como parte do trabalho, no classroom, mas também está disponível em https://www.dropbox.com/scl/fo/p49ffqwdo38a7q1derstj/h?rlkey=bghi46uh19713cy5331hw9ny0&dl=0
 
 Se desejar obter da fonte original, está disponível em https://downloads.dbpedia.org/2016-10/core/ (é o documento short_abstracts_en_uris_pt.ttl.bz2 )
