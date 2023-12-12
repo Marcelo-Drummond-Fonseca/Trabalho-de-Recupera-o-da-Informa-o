@@ -1,4 +1,4 @@
-# Trabalho-de-Recupera-o-da-Informa-o
+# Trabalho-de-Recuperação-da-Informação
 
 Marcelo Drummond Fonseca, DRE 117216621
 
